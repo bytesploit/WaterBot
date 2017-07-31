@@ -12,7 +12,7 @@ Setup the ESP32 development enviornment.
 
 ```sh
 $ cd ~/esp
-$ git clone https://github.com/joel-parker/water-bot
+$ git clone https://github.com/bytesploit/WaterBot.git
 $ cd water_bot
 $ make menuconfig
 ```

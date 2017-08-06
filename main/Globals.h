@@ -32,11 +32,17 @@
 #define PORT_NUMBER 6789
 #define BUFLEN 512
 
-#define RT_MOTOR_GPIO_1 26 // Speed
-#define RT_MOTOR_GPIO_2 25 // Direction
+#define RT_MOTOR_GPIO_1 25 // Speed
+#define RT_MOTOR_GPIO_2 26 // Direction
 
-#define LT_MOTOR_GPIO_3 33 // Speed
-#define LT_MOTOR_GPIO_4 32 // Direction
+#define LT_MOTOR_GPIO_3 32 // Speed
+#define LT_MOTOR_GPIO_4 33 // Direction
+
+// #define RT_MOTOR_GPIO_1 26 // Speed
+// #define RT_MOTOR_GPIO_2 25 // Direction
+
+// #define LT_MOTOR_GPIO_3 33 // Speed
+// #define LT_MOTOR_GPIO_4 32 // Direction
 
 #define WATER_GPIO_5 27 // Water Valve
 

@@ -44,12 +44,8 @@
 #include "driver/gpio.h"
 
 // Home Wifi Access Point
-const char* ssid = "JesusFreaks";
-const char* password = "92266370ED";
-
-// Paul's Wifi Access Point
-// const char* ssid = "Fl0atingPackets";
-// const char* password = "ced44c5a7f2c4dc14080761ec8";
+const char* ssid = "XXXXXXX";
+const char* password = "XXXXXXXX";
 
 
 void waterbot_task(void *pvParameter);
